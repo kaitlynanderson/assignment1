@@ -1,1 +1,21 @@
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 1</title>
+  </head>
+  <body>
+    <header>
+    <h1>Kaitlyn Anderson</h1>
+    </header>
+    
+    <main>
+      <p>My experience in web development includes:</p>
+      <ul>
+        <li>CS0007</li>
+        <li>I had a Tumblr (blog-like account) when I was in Middle School, and I remember going into the code at one point and inserting a line that would allow for continuous scrolling (does that count???)</li>
+        <li>No other real experience, but I'm a college student so I'm on the web a bunch, and know what looks good asthetically. Exicited to learn how those websites come to be!</li>
+      </ul>
+    </main>
+  </body>
+</html>
